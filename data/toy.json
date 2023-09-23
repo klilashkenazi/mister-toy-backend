@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 120,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "_id": "t102",
+        "name": "Teddy Bear",
+        "price": 20,
+        "labels": [
+            "Doll",
+            "Battery Powered"
+        ],
+        "createdAt": 1695246483471,
+        "inStock": false
+    },
+    {
+        "name": "toy",
+        "price": 123,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "inStock": true,
+        "_id": "OsrZ7",
+        "createdAt": 1695297721335
+    }
+]
