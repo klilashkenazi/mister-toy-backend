@@ -33,5 +33,38 @@
         "inStock": true,
         "_id": "OsrZ7",
         "createdAt": 1695297721335
+    },
+    {
+        "name": "toy",
+        "price": 123,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "inStock": true,
+        "_id": "sQEl0",
+        "createdAt": 1695576747581
+    },
+    {
+        "name": "Barbie",
+        "price": 70,
+        "labels": [
+            "Doll",
+            "Battery Powered"
+        ],
+        "inStock": true,
+        "_id": "Qx9Uk",
+        "createdAt": 1695576775457
+    },
+    {
+        "name": "toy",
+        "price": 123,
+        "labels": [
+            "Puzzle"
+        ],
+        "inStock": true,
+        "_id": "MXo7N",
+        "createdAt": 1695580378154
     }
 ]

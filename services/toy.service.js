@@ -55,6 +55,8 @@ function save(toy) {
         const toyToUpdate = toys.find(currToy => currToy._id === toy._id)
         toyToUpdate.name = toy.name
         toyToUpdate.price = toy.price
+        toyToUpdate.labels = toy.labels
+
     } else {
         toy._id = _makeId()
         toy.createdAt = Date.now(),
