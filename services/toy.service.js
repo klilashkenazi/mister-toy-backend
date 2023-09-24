@@ -11,6 +11,7 @@ export const toyService = {
 }
 
 function query(filterBy = {}) {
+    console.log(filterBy)
     let toysToReturn = toys
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
@@ -25,7 +26,12 @@ function query(filterBy = {}) {
         toysToReturn = toysToReturn.filter(toy => toy.inStock)
     }
     if (filterBy.label) {
-        toysToReturn = toysToReturn.filter(toy => toy.labels.includes(filterBy.label))
+        toysToReturn=toysToReturn.filter(toy=>{
+            return filterBy.label.every(label=>toy.labels.includes(label))
+        })
+    }
+    if (filterBy.sortBy) {
+        toysToReturn = toysToReturn.sort((toy1, toy2) => toy1[filterBy.sortBy] - toy2[filterBy.sortBy])
     }
     return Promise.resolve(toysToReturn)
 }
@@ -52,8 +58,8 @@ function save(toy) {
     } else {
         toy._id = _makeId()
         toy.createdAt = Date.now(),
-        // toy.labels= ['Doll', 'Battery Powered', 'Baby'],
-        toys.push(toy)
+            // toy.labels= ['Doll', 'Battery Powered', 'Baby'],
+            toys.push(toy)
     }
 
     return _saveToysToFile().then(() => toy)

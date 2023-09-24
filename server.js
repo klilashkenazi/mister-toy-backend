@@ -19,6 +19,8 @@ const corsOptions = {
         'http://localhost:8080',
         'http://127.0.0.1:5173',
         'http://localhost:5173',
+        'http://127.0.0.1:5174',
+        'http://localhost:5174',
     ],
     credentials: true
 }
@@ -33,9 +35,9 @@ app.use(express.static('public'))
 // **************** toys API ****************:
 // List
 app.get('/api/toy', (req, res) => {
-    const { txt, price, inStock, label } = req.query
+    const { txt, price, inStock, label, sortBy } = req.query
     console.log(txt)
-    const filterBy = { txt, price: +price, inStock: JSON.parse(inStock), label }
+    const filterBy = { txt, price: +price, inStock: JSON.parse(inStock), label, sortBy }
     console, log(filterBy)
     toyService.query(filterBy)
         .then(toys => {
