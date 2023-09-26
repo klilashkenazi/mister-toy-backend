@@ -56,6 +56,7 @@ function save(toy) {
         toyToUpdate.name = toy.name
         toyToUpdate.price = toy.price
         toyToUpdate.labels = toy.labels
+        toyToUpdate.inStock=toy.inStock
 
     } else {
         toy._id = _makeId()

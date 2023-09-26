@@ -1,15 +1,24 @@
 [
     {
-        "_id": "t101",
-        "name": "Talking Doll",
-        "price": 120,
+        "name": "Elsa",
+        "price": 50,
         "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
+            "Doll"
         ],
-        "createdAt": 1631031801011,
-        "inStock": true
+        "inStock": false,
+        "_id": "GKKjZ",
+        "createdAt": 1695761642272
+    },
+    {
+        "name": "Skateboard",
+        "price": 18,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "inStock": true,
+        "_id": "IuFLQ",
+        "createdAt": 1695761884849
     },
     {
         "_id": "t102",
@@ -17,34 +26,31 @@
         "price": 20,
         "labels": [
             "Doll",
-            "Battery Powered"
+            "Baby"
         ],
         "createdAt": 1695246483471,
         "inStock": false
     },
     {
-        "name": "toy",
-        "price": 123,
+        "name": "Remote car",
+        "price": 49,
         "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
+            "On wheels",
+            "Battery Powered"
         ],
         "inStock": true,
-        "_id": "OsrZ7",
-        "createdAt": 1695297721335
+        "_id": "FfyOQ",
+        "createdAt": 1695761694354
     },
     {
-        "name": "toy",
-        "price": 123,
+        "name": "Spiderman",
+        "price": 50,
         "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
+            "Doll"
         ],
         "inStock": true,
-        "_id": "sQEl0",
-        "createdAt": 1695576747581
+        "_id": "07ynE",
+        "createdAt": 1695761614985
     },
     {
         "name": "Barbie",
@@ -58,13 +64,35 @@
         "createdAt": 1695576775457
     },
     {
-        "name": "toy",
-        "price": 123,
+        "name": "LOL Doll",
+        "price": 72,
         "labels": [
-            "Puzzle"
+            "Doll"
         ],
         "inStock": true,
-        "_id": "MXo7N",
-        "createdAt": 1695580378154
+        "_id": "x41hc",
+        "createdAt": 1695581429940
+    },
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 120,
+        "labels": [
+            "Baby",
+            "Battery Powered"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "name": "Bike",
+        "price": 140,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "inStock": true,
+        "_id": "pvDDv",
+        "createdAt": 1695761830265
     }
 ]
