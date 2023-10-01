@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcf5"
+  },
+  "name": "Teddy Bear",
+  "price": 20,
+  "labels": [
+    "Doll",
+    "Baby"
+  ],
+  "createdAt": {
+    "$numberLong": "1695246483471"
+  },
+  "inStock": false,
+  "msgs": [
+    {
+      "txt": "great",
+      "by": {
+        "_id": "6517fbf5f905e552608fa3f5",
+        "fullname": "Klil Ashkenazi",
+        "isAdmin": true
+      },
+      "id": "fuS3W"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcf6"
+  },
+  "name": "Remote car",
+  "price": 49,
+  "labels": [
+    "On wheels",
+    "Battery Powered"
+  ],
+  "inStock": false,
+  "createdAt": {
+    "$numberLong": "1695761694354"
+  },
+  "msgs": [
+    {
+      "txt": "Like it!",
+      "by": {
+        "_id": "651862e77c7d044a2404e1b9",
+        "fullname": "Muki Pa"
+      },
+      "id": "T7eZE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcf7"
+  },
+  "name": "Spiderman",
+  "price": 50,
+  "labels": [
+    "Doll"
+  ],
+  "inStock": true,
+  "createdAt": {
+    "$numberLong": "1695761614985"
+  }
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcf8"
+  },
+  "name": "Barbie",
+  "price": 70,
+  "labels": [
+    "Doll",
+    "Battery Powered"
+  ],
+  "inStock": true,
+  "createdAt": {
+    "$numberLong": "1695576775457"
+  }
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcf9"
+  },
+  "name": "LOL Doll",
+  "price": 72,
+  "labels": [
+    "Doll"
+  ],
+  "inStock": true,
+  "createdAt": {
+    "$numberLong": "1695581429940"
+  }
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcfa"
+  },
+  "name": "Talking Doll",
+  "price": 120,
+  "labels": [
+    "Baby",
+    "Battery Powered"
+  ],
+  "createdAt": {
+    "$numberLong": "1631031801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "6516cedb6d22355367aebcfb"
+  },
+  "name": "Bike",
+  "price": 140,
+  "labels": [
+    "On wheels",
+    "Outdoor"
+  ],
+  "inStock": true,
+  "createdAt": {
+    "$numberLong": "1695761830265"
+  }
+},
+{
+  "_id": {
+    "$oid": "651972eada61f52c2810ead2"
+  },
+  "name": "Basketball",
+  "price": 50,
+  "labels": [
+    "Outdoor"
+  ],
+  "inStock": true
+}]
