@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Elsa",
+        "price": 50,
+        "labels": [
+            "Doll"
+        ],
+        "inStock": false,
+        "createdAt": 1695761642272
+    },
+    {
+        "name": "Skateboard",
+        "price": 18,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "inStock": true,
+        "createdAt": 1695761884849
+    },
+    {
+        "name": "Teddy Bear",
+        "price": 20,
+        "labels": [
+            "Doll",
+            "Baby"
+        ],
+        "createdAt": 1695246483471,
+        "inStock": false
+    },
+    {
+        "name": "Remote car",
+        "price": 49,
+        "labels": [
+            "On wheels",
+            "Battery Powered"
+        ],
+        "inStock": true,
+        "createdAt": 1695761694354
+    },
+    {
+        "name": "Spiderman",
+        "price": 50,
+        "labels": [
+            "Doll"
+        ],
+        "inStock": true,   
+        "createdAt": 1695761614985
+    },
+    {
+        "name": "Barbie",
+        "price": 70,
+        "labels": [
+            "Doll",
+            "Battery Powered"
+        ],
+        "inStock": true,
+        "createdAt": 1695576775457
+    },
+    {
+        "name": "LOL Doll",
+        "price": 72,
+        "labels": [
+            "Doll"
+        ],
+        "inStock": true,
+        "createdAt": 1695581429940
+    },
+    {
+        "name": "Talking Doll",
+        "price": 120,
+        "labels": [
+            "Baby",
+            "Battery Powered"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "name": "Bike",
+        "price": 140,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "inStock": true,
+        "createdAt": 1695761830265
+    }
+]
