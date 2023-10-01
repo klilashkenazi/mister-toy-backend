@@ -729,3 +729,11 @@
 1.10.2023, 17:02:05 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
 1.10.2023, 17:02:05 - INFO - Req was made | / 
 1.10.2023, 17:02:05 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 18:03:27 - INFO - server.js loaded... 
+1.10.2023, 18:03:27 - INFO - Server is running on port: 3030 
+1.10.2023, 18:03:54 - INFO - Req was made | / 
+1.10.2023, 18:03:54 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 18:03:54 - INFO - Req was made | / 
+1.10.2023, 18:03:54 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 18:25:05 - INFO - server.js loaded... 
+1.10.2023, 18:25:05 - INFO - Server is running on port: 3030 
