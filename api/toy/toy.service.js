@@ -72,10 +72,10 @@ async function query(filterBy = {}) {
 }
 
 async function getById(toyId) {
-    console.log(toyId)
     try {
         const collection = await dbService.getCollection('toy')
-        const toy = collection.findOne({ _id: ObjectId(toyId) })
+        const toy = await collection.findOne({ _id: ObjectId(toyId) })
+        console.log('toy:', toy)
         return toy
     }
     catch {

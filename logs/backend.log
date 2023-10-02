@@ -737,3 +737,546 @@
 1.10.2023, 18:03:54 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
 1.10.2023, 18:25:05 - INFO - server.js loaded... 
 1.10.2023, 18:25:05 - INFO - Server is running on port: 3030 
+1.10.2023, 19:01:12 - INFO - server.js loaded... 
+1.10.2023, 19:01:12 - INFO - Server is running on port: 3030 
+1.10.2023, 19:02:15 - INFO - server.js loaded... 
+1.10.2023, 19:02:15 - INFO - Server is running on port: 3030 
+1.10.2023, 19:02:53 - INFO - Server is running on port: 3030 
+1.10.2023, 19:02:53 - INFO - server.js loaded... 
+1.10.2023, 19:03:08 - INFO - server.js loaded... 
+1.10.2023, 19:03:08 - INFO - Server is running on port: 3030 
+1.10.2023, 19:31:18 - INFO - server.js loaded... 
+1.10.2023, 19:31:18 - INFO - Server is running on port: 3030 
+1.10.2023, 19:32:00 - INFO - server.js loaded... 
+1.10.2023, 19:32:00 - INFO - Server is running on port: 3030 
+1.10.2023, 19:45:29 - INFO - server.js loaded... 
+1.10.2023, 19:45:29 - INFO - Server is running on port: 3030 
+1.10.2023, 19:50:15 - INFO - server.js loaded... 
+1.10.2023, 19:50:15 - INFO - Server is running on port: 3030 
+1.10.2023, 19:52:41 - INFO - server.js loaded... 
+1.10.2023, 19:52:41 - INFO - Server is running on port: 3030 
+1.10.2023, 19:53:23 - INFO - Req was made | / 
+1.10.2023, 19:53:23 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 19:53:23 - INFO - Req was made | / 
+1.10.2023, 19:53:23 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 19:53:27 - INFO - Req was made | / 
+1.10.2023, 19:56:12 - DEBUG - auth.service - login with username: klil 
+1.10.2023, 19:56:12 - INFO - User login:  | {"_id":"6517fbf5f905e552608fa3f5","username":"klil","fullname":"Klil Ashkenazi","isAdmin":true} 
+1.10.2023, 20:01:55 - INFO - Req was made | / 
+1.10.2023, 20:01:55 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:01:55 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:02:17 - INFO - Req was made | / 
+1.10.2023, 20:02:17 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:02:17 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:10 - INFO - server.js loaded... 
+1.10.2023, 20:03:10 - INFO - Server is running on port: 3030 
+1.10.2023, 20:03:12 - INFO - Req was made | / 
+1.10.2023, 20:03:12 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:12 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:30 - INFO - server.js loaded... 
+1.10.2023, 20:03:30 - INFO - Server is running on port: 3030 
+1.10.2023, 20:03:33 - INFO - Req was made | / 
+1.10.2023, 20:03:33 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:33 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:59 - INFO - Req was made | / 
+1.10.2023, 20:03:59 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:03:59 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:04:13 - INFO - server.js loaded... 
+1.10.2023, 20:04:13 - INFO - Server is running on port: 3030 
+1.10.2023, 20:04:16 - INFO - Req was made | / 
+1.10.2023, 20:04:16 - ERROR - while finding user 6516cedb6d22355367aebcf4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:04:16 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 20:08:39 - INFO - server.js loaded... 
+1.10.2023, 20:08:39 - INFO - Server is running on port: 3030 
+1.10.2023, 20:08:42 - INFO - Req was made | / 
+1.10.2023, 20:10:28 - INFO - server.js loaded... 
+1.10.2023, 20:10:28 - INFO - Server is running on port: 3030 
+1.10.2023, 20:10:32 - INFO - Req was made | / 
+1.10.2023, 20:13:33 - INFO - server.js loaded... 
+1.10.2023, 20:13:33 - INFO - Server is running on port: 3030 
+1.10.2023, 20:13:39 - INFO - Req was made | / 
+1.10.2023, 20:14:02 - INFO - server.js loaded... 
+1.10.2023, 20:14:02 - INFO - Server is running on port: 3030 
+1.10.2023, 20:14:04 - INFO - Req was made | / 
+1.10.2023, 20:15:29 - INFO - server.js loaded... 
+1.10.2023, 20:15:29 - INFO - Server is running on port: 3030 
+1.10.2023, 20:15:35 - INFO - server.js loaded... 
+1.10.2023, 20:15:35 - INFO - Server is running on port: 3030 
+1.10.2023, 20:15:39 - INFO - Req was made | / 
+1.10.2023, 20:22:47 - INFO - server.js loaded... 
+1.10.2023, 20:22:47 - INFO - Server is running on port: 3030 
+1.10.2023, 20:23:09 - INFO - server.js loaded... 
+1.10.2023, 20:23:09 - INFO - Server is running on port: 3030 
+1.10.2023, 20:23:13 - INFO - Req was made | / 
+1.10.2023, 20:25:26 - INFO - server.js loaded... 
+1.10.2023, 20:25:26 - INFO - Server is running on port: 3030 
+1.10.2023, 20:25:32 - INFO - server.js loaded... 
+1.10.2023, 20:25:32 - INFO - Server is running on port: 3030 
+1.10.2023, 20:25:34 - INFO - Req was made | / 
+1.10.2023, 20:26:00 - INFO - server.js loaded... 
+1.10.2023, 20:26:00 - INFO - Server is running on port: 3030 
+1.10.2023, 20:28:13 - INFO - server.js loaded... 
+1.10.2023, 20:28:13 - INFO - Server is running on port: 3030 
+1.10.2023, 20:28:15 - INFO - Req was made | / 
+1.10.2023, 20:31:19 - INFO - Req was made | / 
+1.10.2023, 20:31:27 - INFO - Req was made | / 
+1.10.2023, 20:31:35 - INFO - Req was made | / 
+1.10.2023, 20:31:56 - INFO - Req was made | / 
+1.10.2023, 20:33:04 - INFO - server.js loaded... 
+1.10.2023, 20:33:04 - INFO - Server is running on port: 3030 
+1.10.2023, 20:33:14 - INFO - server.js loaded... 
+1.10.2023, 20:33:14 - INFO - Server is running on port: 3030 
+1.10.2023, 20:34:13 - INFO - Req was made | / 
+1.10.2023, 20:34:38 - INFO - Req was made | / 
+1.10.2023, 20:35:04 - INFO - server.js loaded... 
+1.10.2023, 20:35:04 - INFO - Server is running on port: 3030 
+1.10.2023, 20:35:08 - INFO - server.js loaded... 
+1.10.2023, 20:35:08 - INFO - Server is running on port: 3030 
+1.10.2023, 20:35:10 - INFO - Req was made | / 
+1.10.2023, 20:35:38 - INFO - server.js loaded... 
+1.10.2023, 20:35:38 - INFO - Server is running on port: 3030 
+1.10.2023, 20:35:43 - INFO - server.js loaded... 
+1.10.2023, 20:35:43 - INFO - Server is running on port: 3030 
+1.10.2023, 20:35:46 - INFO - Req was made | / 
+1.10.2023, 20:35:54 - INFO - server.js loaded... 
+1.10.2023, 20:35:54 - INFO - Server is running on port: 3030 
+1.10.2023, 20:36:06 - INFO - server.js loaded... 
+1.10.2023, 20:36:06 - INFO - Server is running on port: 3030 
+1.10.2023, 20:36:08 - INFO - Req was made | / 
+1.10.2023, 20:36:41 - INFO - server.js loaded... 
+1.10.2023, 20:36:41 - INFO - Server is running on port: 3030 
+1.10.2023, 20:36:45 - INFO - server.js loaded... 
+1.10.2023, 20:36:45 - INFO - Server is running on port: 3030 
+1.10.2023, 20:36:47 - INFO - Req was made | / 
+1.10.2023, 20:38:58 - INFO - server.js loaded... 
+1.10.2023, 20:38:58 - INFO - Server is running on port: 3030 
+1.10.2023, 20:39:03 - INFO - server.js loaded... 
+1.10.2023, 20:39:03 - INFO - Server is running on port: 3030 
+1.10.2023, 20:39:05 - INFO - Req was made | / 
+1.10.2023, 20:39:25 - INFO - Req was made | / 
+1.10.2023, 20:40:06 - INFO - server.js loaded... 
+1.10.2023, 20:40:06 - INFO - Server is running on port: 3030 
+1.10.2023, 20:40:12 - INFO - server.js loaded... 
+1.10.2023, 20:40:12 - INFO - Server is running on port: 3030 
+1.10.2023, 20:40:14 - INFO - Req was made | / 
+1.10.2023, 20:41:28 - INFO - server.js loaded... 
+1.10.2023, 20:41:28 - INFO - Server is running on port: 3030 
+1.10.2023, 20:41:34 - INFO - server.js loaded... 
+1.10.2023, 20:41:34 - INFO - Server is running on port: 3030 
+1.10.2023, 20:41:36 - INFO - Req was made | / 
+1.10.2023, 20:41:47 - INFO - server.js loaded... 
+1.10.2023, 20:41:47 - INFO - Server is running on port: 3030 
+1.10.2023, 20:46:15 - INFO - server.js loaded... 
+1.10.2023, 20:46:15 - INFO - Server is running on port: 3030 
+1.10.2023, 20:46:18 - INFO - Req was made | / 
+1.10.2023, 20:47:26 - INFO - server.js loaded... 
+1.10.2023, 20:47:26 - INFO - Server is running on port: 3030 
+1.10.2023, 20:47:31 - INFO - server.js loaded... 
+1.10.2023, 20:47:31 - INFO - Server is running on port: 3030 
+1.10.2023, 20:47:36 - INFO - Req was made | / 
+1.10.2023, 20:50:59 - INFO - server.js loaded... 
+1.10.2023, 20:50:59 - INFO - Server is running on port: 3030 
+1.10.2023, 20:51:35 - INFO - server.js loaded... 
+1.10.2023, 20:51:35 - INFO - Server is running on port: 3030 
+1.10.2023, 20:52:30 - INFO - server.js loaded... 
+1.10.2023, 20:52:30 - INFO - Server is running on port: 3030 
+1.10.2023, 20:53:07 - INFO - server.js loaded... 
+1.10.2023, 20:53:07 - INFO - Server is running on port: 3030 
+1.10.2023, 20:53:14 - INFO - Req was made | / 
+1.10.2023, 20:53:32 - INFO - server.js loaded... 
+1.10.2023, 20:53:32 - INFO - Server is running on port: 3030 
+1.10.2023, 20:53:34 - INFO - Req was made | / 
+1.10.2023, 20:54:18 - INFO - server.js loaded... 
+1.10.2023, 20:54:18 - INFO - Server is running on port: 3030 
+1.10.2023, 20:54:21 - INFO - Req was made | / 
+1.10.2023, 20:54:21 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:54:21 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:55:37 - INFO - server.js loaded... 
+1.10.2023, 20:55:37 - INFO - Server is running on port: 3030 
+1.10.2023, 20:55:42 - INFO - Req was made | / 
+1.10.2023, 20:55:42 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:55:42 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:57:13 - INFO - server.js loaded... 
+1.10.2023, 20:57:13 - INFO - Server is running on port: 3030 
+1.10.2023, 20:57:34 - INFO - Req was made | / 
+1.10.2023, 20:58:15 - INFO - server.js loaded... 
+1.10.2023, 20:58:15 - INFO - Server is running on port: 3030 
+1.10.2023, 20:58:40 - INFO - server.js loaded... 
+1.10.2023, 20:58:40 - INFO - Server is running on port: 3030 
+1.10.2023, 20:59:39 - INFO - server.js loaded... 
+1.10.2023, 20:59:39 - INFO - Server is running on port: 3030 
+1.10.2023, 20:59:40 - INFO - Req was made | / 
+1.10.2023, 20:59:56 - INFO - server.js loaded... 
+1.10.2023, 20:59:56 - INFO - Server is running on port: 3030 
+1.10.2023, 20:59:58 - INFO - Req was made | / 
+1.10.2023, 20:59:58 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:59:58 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:02:56 - INFO - server.js loaded... 
+1.10.2023, 21:02:56 - INFO - Server is running on port: 3030 
+1.10.2023, 21:02:58 - INFO - Req was made | / 
+1.10.2023, 21:05:01 - INFO - Req was made | / 
+1.10.2023, 21:06:29 - INFO - server.js loaded... 
+1.10.2023, 21:06:29 - INFO - Server is running on port: 3030 
+1.10.2023, 21:06:34 - INFO - Req was made | / 
+1.10.2023, 21:07:38 - INFO - Req was made | / 
+1.10.2023, 21:09:12 - INFO - server.js loaded... 
+1.10.2023, 21:09:12 - INFO - Server is running on port: 3030 
+1.10.2023, 21:09:18 - INFO - Req was made | / 
+1.10.2023, 21:10:27 - INFO - server.js loaded... 
+1.10.2023, 21:10:27 - INFO - Server is running on port: 3030 
+1.10.2023, 21:10:30 - INFO - Req was made | / 
+1.10.2023, 21:11:25 - INFO - server.js loaded... 
+1.10.2023, 21:11:25 - INFO - Server is running on port: 3030 
+1.10.2023, 21:11:28 - INFO - Req was made | / 
+1.10.2023, 21:11:28 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:11:28 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:11:56 - INFO - server.js loaded... 
+1.10.2023, 21:11:56 - INFO - Server is running on port: 3030 
+1.10.2023, 21:12:00 - INFO - Req was made | / 
+1.10.2023, 21:18:06 - INFO - server.js loaded... 
+1.10.2023, 21:18:06 - INFO - Server is running on port: 3030 
+1.10.2023, 21:18:09 - INFO - Req was made | / 
+1.10.2023, 21:18:58 - INFO - server.js loaded... 
+1.10.2023, 21:18:58 - INFO - Server is running on port: 3030 
+1.10.2023, 21:19:15 - INFO - Req was made | / 
+1.10.2023, 21:19:43 - INFO - server.js loaded... 
+1.10.2023, 21:19:43 - INFO - Server is running on port: 3030 
+1.10.2023, 21:19:44 - INFO - Req was made | / 
+1.10.2023, 21:19:44 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:19:44 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:19:59 - INFO - Req was made | / 
+1.10.2023, 21:19:59 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:19:59 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 21:20:15 - INFO - server.js loaded... 
+1.10.2023, 21:20:15 - INFO - Server is running on port: 3030 
+1.10.2023, 21:20:17 - INFO - Req was made | / 
+1.10.2023, 21:22:01 - INFO - Req was made | / 
+1.10.2023, 21:22:19 - INFO - Req was made | / 
+1.10.2023, 21:22:29 - INFO - server.js loaded... 
+1.10.2023, 21:22:29 - INFO - Server is running on port: 3030 
+1.10.2023, 21:22:39 - INFO - server.js loaded... 
+1.10.2023, 21:22:39 - INFO - Server is running on port: 3030 
+1.10.2023, 21:22:40 - INFO - Req was made | / 
+1.10.2023, 21:24:11 - INFO - server.js loaded... 
+1.10.2023, 21:24:11 - INFO - Server is running on port: 3030 
+1.10.2023, 21:24:26 - INFO - Req was made | / 
+1.10.2023, 21:25:12 - INFO - server.js loaded... 
+1.10.2023, 21:25:12 - INFO - Server is running on port: 3030 
+1.10.2023, 21:25:14 - INFO - Req was made | / 
+1.10.2023, 21:27:58 - INFO - server.js loaded... 
+1.10.2023, 21:27:58 - INFO - Server is running on port: 3030 
+1.10.2023, 21:28:00 - INFO - Req was made | / 
+1.10.2023, 21:30:50 - INFO - server.js loaded... 
+1.10.2023, 21:30:50 - INFO - Server is running on port: 3030 
+1.10.2023, 21:30:52 - INFO - server.js loaded... 
+1.10.2023, 21:30:52 - INFO - Server is running on port: 3030 
+1.10.2023, 21:31:39 - INFO - Req was made | / 
+1.10.2023, 21:33:43 - INFO - server.js loaded... 
+1.10.2023, 21:33:43 - INFO - Server is running on port: 3030 
+1.10.2023, 21:33:49 - INFO - Req was made | / 
+1.10.2023, 21:37:15 - INFO - server.js loaded... 
+1.10.2023, 21:37:15 - INFO - Server is running on port: 3030 
+1.10.2023, 21:37:21 - INFO - server.js loaded... 
+1.10.2023, 21:37:21 - INFO - Server is running on port: 3030 
+1.10.2023, 21:37:22 - INFO - Req was made | / 
+1.10.2023, 21:38:25 - INFO - Req was made | / 
+1.10.2023, 21:39:21 - INFO - server.js loaded... 
+1.10.2023, 21:39:21 - INFO - Server is running on port: 3030 
+1.10.2023, 21:39:23 - INFO - Req was made | / 
+1.10.2023, 21:58:49 - INFO - Req was made | / 
+1.10.2023, 21:59:02 - INFO - Req was made | / 
+1.10.2023, 21:59:22 - INFO - Req was made | / 
+1.10.2023, 22:00:30 - INFO - Req was made | / 
+1.10.2023, 22:00:50 - INFO - Req was made | / 
+1.10.2023, 22:01:23 - INFO - server.js loaded... 
+1.10.2023, 22:01:23 - INFO - Server is running on port: 3030 
+1.10.2023, 22:03:45 - INFO - server.js loaded... 
+1.10.2023, 22:03:45 - INFO - Server is running on port: 3030 
+1.10.2023, 22:03:48 - INFO - Req was made | / 
+1.10.2023, 22:04:49 - INFO - Req was made | / 
+1.10.2023, 22:04:49 - ERROR - cannot find reviews | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.10.2023, 22:04:49 - ERROR - Cannot get reviews | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.10.2023, 22:07:14 - INFO - server.js loaded... 
+1.10.2023, 22:07:14 - INFO - Server is running on port: 3030 
+1.10.2023, 22:53:51 - INFO - Req was made | / 
+1.10.2023, 22:57:55 - INFO - Req was made | / 
+1.10.2023, 22:57:55 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 22:57:55 - INFO - Req was made | / 
+1.10.2023, 22:57:55 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 23:00:17 - DEBUG - auth.service - login with username: klil 
+1.10.2023, 23:00:17 - INFO - User login:  | {"_id":"6517fbf5f905e552608fa3f5","username":"klil","fullname":"Klil Ashkenazi","isAdmin":true} 
+1.10.2023, 23:00:17 - INFO - Req was made | / 
+1.10.2023, 23:00:17 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 23:00:18 - INFO - Req was made | / 
+1.10.2023, 23:00:18 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 23:07:04 - INFO - Req was made | / 
+1.10.2023, 23:07:21 - INFO - Req was made | / 
+1.10.2023, 23:12:23 - INFO - Req was made | / 
+1.10.2023, 23:13:07 - INFO - Req was made | / 
+1.10.2023, 23:13:28 - INFO - Req was made | / 
+1.10.2023, 23:15:58 - INFO - Req was made | / 
+1.10.2023, 23:16:46 - INFO - Req was made | / 
+1.10.2023, 23:17:25 - INFO - Req was made | / 
+1.10.2023, 23:17:45 - INFO - Req was made | / 
+1.10.2023, 23:17:45 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 23:17:46 - INFO - Req was made | / 
+1.10.2023, 23:17:46 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+1.10.2023, 23:17:47 - INFO - Req was made | / 
+1.10.2023, 23:18:35 - INFO - Req was made | / 
+1.10.2023, 23:19:04 - INFO - Req was made | / 
+1.10.2023, 23:22:03 - INFO - Req was made | / 
+1.10.2023, 23:48:46 - INFO - Req was made | / 
+1.10.2023, 23:48:49 - INFO - Req was made | / 
+1.10.2023, 23:53:07 - INFO - Req was made | / 
+1.10.2023, 23:53:31 - INFO - Req was made | / 
+1.10.2023, 23:53:51 - INFO - Req was made | / 
+1.10.2023, 23:54:00 - INFO - Req was made | / 
+1.10.2023, 23:54:41 - INFO - Req was made | / 
+1.10.2023, 23:55:21 - INFO - Req was made | / 
+1.10.2023, 23:56:24 - INFO - Req was made | / 
+1.10.2023, 23:57:15 - INFO - Req was made | / 
+2.10.2023, 0:03:39 - INFO - Req was made | / 
+2.10.2023, 0:04:47 - INFO - Req was made | / 
+2.10.2023, 0:05:15 - INFO - Req was made | / 
+2.10.2023, 0:05:15 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:05:15 - INFO - Req was made | / 
+2.10.2023, 0:05:15 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:05:20 - INFO - Req was made | / 
+2.10.2023, 0:05:27 - INFO - Req was made | / 
+2.10.2023, 0:05:27 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:05:27 - INFO - Req was made | / 
+2.10.2023, 0:05:27 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:07:52 - INFO - Req was made | / 
+2.10.2023, 0:07:54 - INFO - Req was made | / 
+2.10.2023, 0:07:54 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:07:55 - INFO - Req was made | / 
+2.10.2023, 0:07:55 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:07:56 - INFO - Req was made | / 
+2.10.2023, 0:08:53 - INFO - Req was made | / 
+2.10.2023, 0:08:53 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:08:53 - INFO - Req was made | / 
+2.10.2023, 0:08:53 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:08:55 - INFO - Req was made | / 
+2.10.2023, 0:08:59 - INFO - Req was made | / 
+2.10.2023, 0:08:59 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:08:59 - INFO - Req was made | / 
+2.10.2023, 0:08:59 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:00 - INFO - Req was made | / 
+2.10.2023, 0:09:02 - INFO - Req was made | / 
+2.10.2023, 0:09:02 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:02 - INFO - Req was made | / 
+2.10.2023, 0:09:02 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:05 - INFO - Req was made | / 
+2.10.2023, 0:09:11 - INFO - Req was made | / 
+2.10.2023, 0:09:13 - INFO - Req was made | / 
+2.10.2023, 0:09:16 - INFO - Req was made | / 
+2.10.2023, 0:09:16 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:17 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:17 - INFO - Req was made | / 
+2.10.2023, 0:09:18 - INFO - Req was made | / 
+2.10.2023, 0:09:33 - INFO - Req was made | / 
+2.10.2023, 0:09:33 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:33 - INFO - Req was made | / 
+2.10.2023, 0:09:33 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:35 - INFO - Req was made | / 
+2.10.2023, 0:09:39 - INFO - Req was made | / 
+2.10.2023, 0:09:39 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:40 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:09:40 - INFO - Req was made | / 
+2.10.2023, 0:13:09 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:04 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:05 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:06 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:07 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:08 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:15:09 - INFO - Req was made | / 
+2.10.2023, 0:16:04 - INFO - Req was made | / 
+2.10.2023, 0:16:08 - INFO - Req was made | / 
+2.10.2023, 0:16:08 - INFO - Req was made | / 
+2.10.2023, 0:16:08 - INFO - Req was made | / 
+2.10.2023, 0:16:08 - INFO - Req was made | / 
+2.10.2023, 0:16:08 - INFO - Req was made | / 
+2.10.2023, 0:16:09 - INFO - Req was made | / 
+2.10.2023, 0:16:10 - INFO - Req was made | / 
+2.10.2023, 0:16:10 - INFO - Req was made | / 
+2.10.2023, 0:16:11 - INFO - Req was made | / 
+2.10.2023, 0:16:12 - INFO - Req was made | / 
+2.10.2023, 0:16:21 - INFO - Req was made | / 
+2.10.2023, 0:18:10 - INFO - Req was made | / 
+2.10.2023, 0:21:19 - INFO - Req was made | / 
+2.10.2023, 0:21:24 - INFO - Req was made | / 
+2.10.2023, 0:23:22 - INFO - Req was made | / 
+2.10.2023, 0:23:30 - INFO - Req was made | / 
+2.10.2023, 0:26:20 - INFO - server.js loaded... 
+2.10.2023, 0:26:20 - INFO - Server is running on port: 3030 
+2.10.2023, 0:26:21 - INFO - Req was made | / 
+2.10.2023, 0:26:24 - INFO - Req was made | / 
+2.10.2023, 0:26:24 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:26:25 - INFO - Req was made | / 
+2.10.2023, 0:26:25 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:26:30 - INFO - Req was made | / 
+2.10.2023, 0:26:41 - INFO - Req was made | / 
+2.10.2023, 0:28:27 - INFO - server.js loaded... 
+2.10.2023, 0:28:27 - INFO - Server is running on port: 3030 
+2.10.2023, 0:28:39 - INFO - server.js loaded... 
+2.10.2023, 0:28:39 - INFO - Server is running on port: 3030 
+2.10.2023, 0:28:40 - INFO - Req was made | / 
+2.10.2023, 0:28:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:28:43 - INFO - Req was made | / 
+2.10.2023, 0:28:43 - INFO - Req was made | / 
+2.10.2023, 0:28:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:28:49 - INFO - Req was made | / 
+2.10.2023, 0:28:54 - INFO - Req was made | / 
+2.10.2023, 0:29:56 - INFO - server.js loaded... 
+2.10.2023, 0:29:56 - INFO - Server is running on port: 3030 
+2.10.2023, 0:30:59 - INFO - Req was made | / 
+2.10.2023, 0:31:03 - INFO - Req was made | / 
+2.10.2023, 0:32:08 - INFO - Req was made | / 
+2.10.2023, 0:32:27 - INFO - Req was made | / 
+2.10.2023, 0:39:15 - INFO - Req was made | / 
+2.10.2023, 0:39:15 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:39:15 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:39:15 - INFO - Req was made | / 
+2.10.2023, 0:39:18 - INFO - Req was made | / 
+2.10.2023, 0:39:25 - INFO - Req was made | / 
+2.10.2023, 0:39:25 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:39:26 - INFO - Req was made | / 
+2.10.2023, 0:39:26 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:39:30 - INFO - Req was made | / 
+2.10.2023, 0:39:30 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 0:39:30 - INFO - Req was made | / 
+2.10.2023, 0:39:30 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 1:00:50 - INFO - Req was made | / 
+2.10.2023, 1:00:50 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 1:00:50 - INFO - Req was made | / 
+2.10.2023, 1:00:50 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 1:00:53 - INFO - Req was made | / 
+2.10.2023, 1:02:05 - INFO - Req was made | / 
+2.10.2023, 1:03:57 - INFO - Req was made | / 
+2.10.2023, 8:04:36 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:04:36 - INFO - Req was made | / 
+2.10.2023, 8:04:37 - INFO - Req was made | / 
+2.10.2023, 8:04:37 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:07:56 - INFO - Req was made | / 
+2.10.2023, 8:17:08 - INFO - Req was made | / 
+2.10.2023, 8:17:08 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:17:09 - INFO - Req was made | / 
+2.10.2023, 8:17:09 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:34:42 - INFO - Req was made | / 
+2.10.2023, 8:34:42 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:34:42 - INFO - Req was made | / 
+2.10.2023, 8:34:42 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:43:43 - INFO - Req was made | / 
+2.10.2023, 8:43:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 8:43:43 - INFO - Req was made | / 
+2.10.2023, 8:43:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:33 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:33 - INFO - Req was made | / 
+2.10.2023, 9:03:33 - INFO - Req was made | / 
+2.10.2023, 9:03:33 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:41 - INFO - Req was made | / 
+2.10.2023, 9:03:41 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:42 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:42 - INFO - Req was made | / 
+2.10.2023, 9:03:52 - INFO - Req was made | / 
+2.10.2023, 9:03:52 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:03:52 - INFO - Req was made | / 
+2.10.2023, 9:03:52 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:05:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:05:43 - INFO - Req was made | / 
+2.10.2023, 9:05:43 - INFO - Req was made | / 
+2.10.2023, 9:05:43 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:08:10 - INFO - Req was made | / 
+2.10.2023, 9:08:10 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:08:10 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:08:10 - INFO - Req was made | / 
+2.10.2023, 9:36:45 - INFO - Req was made | / 
+2.10.2023, 9:39:31 - INFO - Req was made | / 
+2.10.2023, 9:39:57 - INFO - Req was made | / 
+2.10.2023, 9:41:19 - INFO - Req was made | / 
+2.10.2023, 9:45:31 - INFO - Req was made | / 
+2.10.2023, 9:47:09 - INFO - Req was made | / 
+2.10.2023, 9:47:18 - INFO - Req was made | / 
+2.10.2023, 9:47:18 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:47:18 - INFO - Req was made | / 
+2.10.2023, 9:47:18 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:47:20 - INFO - Req was made | / 
+2.10.2023, 9:47:27 - INFO - Req was made | / 
+2.10.2023, 9:54:05 - INFO - Req was made | / 
+2.10.2023, 9:54:25 - INFO - Req was made | / 
+2.10.2023, 9:54:25 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:54:25 - INFO - Req was made | / 
+2.10.2023, 9:54:25 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 9:54:29 - INFO - Req was made | / 
+2.10.2023, 9:54:33 - INFO - Req was made | / 
+2.10.2023, 9:56:06 - INFO - Req was made | / 
+2.10.2023, 9:56:10 - INFO - Req was made | / 
+2.10.2023, 9:57:09 - INFO - Req was made | / 
+2.10.2023, 9:57:13 - INFO - Req was made | / 
+2.10.2023, 9:57:16 - INFO - Req was made | / 
+2.10.2023, 10:00:04 - INFO - Req was made | / 
+2.10.2023, 10:00:04 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 10:00:05 - INFO - Req was made | / 
+2.10.2023, 10:00:05 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 10:00:07 - INFO - Req was made | / 
+2.10.2023, 10:00:10 - INFO - Req was made | / 
+2.10.2023, 10:00:10 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 10:00:10 - INFO - Req was made | / 
+2.10.2023, 10:00:10 - DEBUG - Getting Toys | {"txt":"","price":0,"inStock":false,"sortBy":""} 
+2.10.2023, 11:10:24 - INFO - server.js loaded... 
+2.10.2023, 11:10:24 - INFO - Server is running on port: 3030 
